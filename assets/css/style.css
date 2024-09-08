@@ -1174,6 +1174,26 @@ input[type=button] {
   color: var(--color-white);
 }
 
+.logo-size {
+  max-width: 75%;
+}
+
+@media (max-width:1024px) {
+  .logo-size{
+    max-width: 35%;
+  }
+}
+
+@media (max-width:1025px) {
+  .logo-size{
+    max-width: 35%;
+  }
+}
+
+.logo-mobile {
+  max-width: 35%;
+}
+
 .top-content-info {
   padding: 20px 0;
 }
