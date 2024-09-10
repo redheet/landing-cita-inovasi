@@ -1180,13 +1180,13 @@ input[type=button] {
 
 @media (max-width:1024px) {
   .logo-size{
-    max-width: 35%;
+    max-width: 25%;
   }
 }
 
 @media (max-width:1025px) {
   .logo-size{
-    max-width: 35%;
+    max-width: 25%;
   }
 }
 
